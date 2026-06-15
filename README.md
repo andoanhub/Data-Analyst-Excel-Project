@@ -35,7 +35,7 @@ Uses the MEDIAN() function combined with FILTER() to perform multi-criteria anal
         (jobs[job_country] = country) * 
         (jobs[job_schedule_type] = type)
     )
-)
+)```
 
 **Visual Highlighting Technique:**
 To enhance user experience, I implemented a dynamic highlighting feature for the bar chart.

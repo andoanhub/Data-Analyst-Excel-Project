@@ -1,4 +1,4 @@
-This project use Microsoft Excel to visualizing global median salary, recruitment channels, and job type distribution for diverse IT and Data-related job titles
+## This project use Microsoft Excel to visualizing global median salary, recruitment channels, and job type distribution for diverse IT and Data-related job titles
 
 # 📊 Dashboard Preview
 

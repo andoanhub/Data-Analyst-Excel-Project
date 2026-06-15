@@ -85,5 +85,6 @@ This interactive dashboard is a personal project based on an online course, desi
 - Benchmarking Salaries: Providing median salary insights by role, region, and job type.
 - Optimizing Search: Identifying the most relevant job platforms for specific needs.
 - Measuring Opportunity: Tracking job counts to gauge real-world demand.
+  
 This project showcases how Excel can be leveraged as a powerful, professional tool for data-driven decision-making.
 

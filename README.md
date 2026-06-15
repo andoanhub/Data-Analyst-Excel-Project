@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/b7935cd0-5a96-4857-b132-98b84239a558
 
 This chart provides an interactive overview of median salaries across various technical roles, countries, and job types.
 
-** Technical Implementation: **
+** Technical Implementation:**
 Uses the MEDIAN() function combined with FILTER() to perform multi-criteria analysis across the dataset. This approach allows for real-time, responsive calculations based on user-selected dimensions (Job Title, Country, and Job Type).
 
 `=MEDIAN(
@@ -36,9 +36,9 @@ Uses the MEDIAN() function combined with FILTER() to perform multi-criteria anal
     )
 )`
 
-** Visual Highlighting Technique: **
+** Visual Highlighting Technique:**
 To enhance user experience, I implemented a dynamic highlighting feature for the bar chart.
-** Logic: ** I created a helper column using an "IF" statement to isolate the selected job title’s salary data.
+** Logic:** I created a helper column using an "IF" statement to isolate the selected job title’s salary data.
 
 
 ## 📊 Country median salary and top job platform - Map Chart

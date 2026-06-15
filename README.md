@@ -43,8 +43,8 @@ Uses the MEDIAN() function combined with FILTER() to perform multi-criteria anal
 **Visual Highlighting Technique:**
 To enhance user experience, I implemented a dynamic highlighting feature for the bar chart.
 **Logic:** I created a helper column using an "IF" statement to isolate the selected job title's salary data.
-##
-Country median salary and top job platform - Map Chart
+
+## 🌍 Country median salary and top job platform - Map Chart
 
 
 

@@ -29,7 +29,7 @@ Uses the MEDIAN() function combined with FILTER() to perform multi-criteria anal
 
 **Technical Implementation:** Uses the MEDIAN() function combined with FILTER() to perform multi-criteria analysis across the dataset. This approach allows for real-time, responsive calculations based on user-selected dimensions (Job Title, Country, and Job Type).
 
-`excel
+```excel
 =MEDIAN(
     FILTER(
         jobs[salary_year_avg], 
@@ -37,7 +37,8 @@ Uses the MEDIAN() function combined with FILTER() to perform multi-criteria anal
         (jobs[job_country] = country) * 
         (jobs[job_schedule_type] = type)
     )
-)`
+)
+```
 
 **Visual Highlighting Technique:**
 To enhance user experience, I implemented a dynamic highlighting feature for the bar chart.
